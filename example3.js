@@ -10,3 +10,5 @@ console.log(greeting);
 // 3. Dobara assignment karne ki koshish karenge toh error aayega
 // greeting = "Hi Universe!";  
 // ❌ TypeError: Assignment to constant variable.
+
+
