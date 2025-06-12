@@ -10,7 +10,7 @@ function makeCoffee() {
         resolve("2. Coffee is ready!");
         // Promise resolved – success message pass kiya
       } else {
-        reject("2. Coffee failed 😢");
+        reject("2. Coffee failed");
         // Promise rejected – error message pass kiya
       }
     }, 1000);
